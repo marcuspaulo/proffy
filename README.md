@@ -56,14 +56,14 @@
 ### Web Screenshot
 
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="https://github.com/marcuspaulo/proffy/blob/master/.github/web-landing-page.png?raw=true" width="350px">
+   <img src="https://github.com/marcuspaulo/proffy/.github/web-landing-page.png?raw=true" width="350px">
    <img src="https://github.com/marcuspaulo/proffy/blob/master/.github/web-list.png?raw=true" width="350px" style="margin-left:12px;">
 </div>
 
 ### Mobile Screenshot
 
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="https://github.com/marcuspaulo/proffy/blob/master/.github/mobile-home.png?raw=true" width="350px">
+   <img src="https://github.com/marcuspaulo/proffy/.github/mobile-home.png?raw=true" width="350px">
    <img src="https://github.com/marcuspaulo/proffy/blob/master/.github/mobile-favoritos.png?raw=true" width="350px" style="margin-left:12px;">
 </div>
 
